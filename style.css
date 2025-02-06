@@ -45,7 +45,7 @@ a:hover{
 }
 .search-bar input{
     width:100%;
-    background-image: url('./images/search.png');
+    background-image: url('./assets/search.png');
     background-position: 310px 5px;
     background-repeat: no-repeat;
     border:2px solid whitesmoke;
@@ -82,7 +82,7 @@ a:hover{
 }
 
 .image-block{
-    background-image: url("./images/home-img.png");
+    background-image: url("./assets/home-img.png");
     background-repeat: no-repeat;
     background-position: 550px 50px;
     width:100%;
@@ -217,12 +217,12 @@ a:hover{
     margin: 20px 50px;
 }
 .deal-one{
-    background-image: url("./images/deals-1.jpg");
+    background-image: url("./assets/deals-1.jpg");
     background-repeat: no-repeat;
     background-size: 550px 550px;
 }
 .deal-two{
-    background-image: url("./images/deals-2.png");
+    background-image: url("./assets/deals-2.png");
     background-repeat: no-repeat;
     background-size: 550px 550px;
 }
@@ -527,76 +527,76 @@ a:hover{
     visibility: visible;
 }
 .pi1{
-    background-image: url("./images/product-1-1.jpg");
+    background-image: url("./assets/product-1-1.jpg");
 }
 .pi1:hover{
-    background-image: url("./images/product-1-2.jpg");
+    background-image: url("./assets/product-1-2.jpg");
 }
 .pi2{
-    background-image: url("./images/product-2-1.jpg");
+    background-image: url("./assets/product-2-1.jpg");
 }
 .pi2:hover{
-    background-image: url("./images/product-2-2.jpg");
+    background-image: url("./assets/product-2-2.jpg");
 }
 .pi3{
-    background-image: url("./images/product-3-1.jpg");
+    background-image: url("./assets/product-3-1.jpg");
 }
 .pi3:hover{
-    background-image: url("./images/product-3-2.jpg");
+    background-image: url("./assets/product-3-2.jpg");
 }
 .pi4{
-    background-image: url("./images/product-4-1.jpg");
+    background-image: url("./assets/product-4-1.jpg");
 }
 .pi4:hover{
-    background-image: url("./images/product-4-2.jpg");
+    background-image: url("./assets/product-4-2.jpg");
 }
 .pi5{
-    background-image: url("./images/product-5-1.jpg");
+    background-image: url("./assets/product-5-1.jpg");
 }
 .pi5:hover{
-    background-image: url("./images/product-5-2.jpg");
+    background-image: url("./assets/product-5-2.jpg");
 }
 .pi6{
-    background-image: url("./images/product-6-1.jpg");
+    background-image: url("./assets/product-6-1.jpg");
 }
 .pi6:hover{
-    background-image: url("./images/product-6-2.jpg");
+    background-image: url("./assets/product-6-2.jpg");
 }
 .pi7{
-    background-image: url("./images/product-7-1.jpg");
+    background-image: url("./assets/product-7-1.jpg");
 }
 .pi7:hover{
-    background-image: url("./images/product-7-2.jpg");
+    background-image: url("./assets/product-7-2.jpg");
 }
 .pi8{
-    background-image: url("./images/product-8-1.jpg");
+    background-image: url("./assets/product-8-1.jpg");
 }
 .pi8:hover{
-    background-image: url("./images/product-8-2.jpg");
+    background-image: url("./assets/product-8-2.jpg");
 }
 .pi9{
-    background-image: url("./images/product-9-1.jpg");
+    background-image: url("./assets/product-9-1.jpg");
 }
 .pi9:hover{
-    background-image: url("./images/product-9-2.jpg");
+    background-image: url("./assets/product-9-2.jpg");
 }
 .pi10{
-    background-image: url("./images/product-10-1.jpg");
+    background-image: url("./assets/product-10-1.jpg");
 }
 .pi10:hover{
-    background-image: url("./images/product-10-2.jpg");
+    background-image: url("./assets/product-10-2.jpg");
 }
 .pi11{
-    background-image: url("./images/product-11-1.jpg");
+    background-image: url("./assets/product-11-1.jpg");
 }
 .pi11:hover{
-    background-image: url("./images/product-11-2.jpg");
+    background-image: url("./assets/product-11-2.jpg");
 }
 .pi12{
-    background-image: url("./images/product-12-1.jpg");
+    background-image: url("./assets/product-12-1.jpg");
 }
 .pi12:hover{
-    background-image: url("./images/product-12-2.jpg");
+    background-image: url("./assets/product-12-2.jpg");
 }
 .sc{
     width:240px;
